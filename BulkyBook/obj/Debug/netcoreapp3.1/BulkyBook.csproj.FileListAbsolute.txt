@@ -1,0 +1,1384 @@
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.StaticWebAssets.xml
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.exe
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.deps.json
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.runtimeconfig.json
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.runtimeconfig.dev.json
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.pdb
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Views.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Views.pdb
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.csprojAssemblyReference.cache
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.AssemblyInfoInputs.cache
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.AssemblyInfo.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorAssemblyInfo.cache
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorAssemblyInfo.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.TagHelpers.input.cache
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.TagHelpers.output.cache
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorCoreGenerate.cache
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorTargetAssemblyInfo.cache
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorTargetAssemblyInfo.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.Views.pdb
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.csproj.CopyComplete
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\staticwebassets\BulkyBook.StaticWebAssets.Manifest.cache
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\staticwebassets\BulkyBook.StaticWebAssets.xml
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.pdb
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.genruntimeconfig.cache
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.csproj.CoreCompileInputs.cache
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raed Hosny\Desktop\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.StaticWebAssets.xml
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.exe
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.deps.json
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.runtimeconfig.json
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.runtimeconfig.dev.json
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.pdb
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Views.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Views.pdb
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.csprojAssemblyReference.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.AssemblyInfoInputs.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.AssemblyInfo.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorAssemblyInfo.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorAssemblyInfo.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.TagHelpers.input.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.TagHelpers.output.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorCoreGenerate.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorTargetAssemblyInfo.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorTargetAssemblyInfo.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.Views.pdb
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.csproj.CopyComplete
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\staticwebassets\BulkyBook.StaticWebAssets.Manifest.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\staticwebassets\BulkyBook.StaticWebAssets.xml
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.pdb
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.genruntimeconfig.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.csproj.CoreCompileInputs.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.MvcApplicationPartsAssemblyInfo.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Training\Asp core\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\appsettings.json
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.StaticWebAssets.xml
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.exe
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.deps.json
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.runtimeconfig.json
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.runtimeconfig.dev.json
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.pdb
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Views.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Views.pdb
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+E:\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.csprojAssemblyReference.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.AssemblyInfoInputs.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.AssemblyInfo.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.csproj.CoreCompileInputs.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.MvcApplicationPartsAssemblyInfo.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.MvcApplicationPartsAssemblyInfo.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorAssemblyInfo.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorAssemblyInfo.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.TagHelpers.input.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.TagHelpers.output.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorCoreGenerate.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorTargetAssemblyInfo.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorTargetAssemblyInfo.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.Views.pdb
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.csproj.CopyComplete
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\staticwebassets\BulkyBook.StaticWebAssets.Manifest.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\staticwebassets\BulkyBook.StaticWebAssets.xml
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.dll
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.pdb
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.genruntimeconfig.cache
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Company\Index.cshtml.g.cs
+E:\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Company\Upsert.cshtml.g.cs
