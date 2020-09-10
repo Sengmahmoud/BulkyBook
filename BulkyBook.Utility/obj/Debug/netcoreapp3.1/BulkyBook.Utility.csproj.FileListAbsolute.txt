@@ -25,3 +25,12 @@ E:\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csproj.
 E:\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.dll
 E:\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
 E:\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csprojAssemblyReference.cache
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.deps.json
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.Utility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csprojAssemblyReference.cache
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csproj.CoreCompileInputs.cache

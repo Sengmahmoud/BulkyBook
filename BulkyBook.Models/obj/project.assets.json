@@ -6450,11 +6450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+      "projectUniqueName": "C:\\Users\\WesamSoft-PC\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
       "projectName": "BulkyBook.Models",
-      "projectPath": "E:\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+      "projectPath": "C:\\Users\\WesamSoft-PC\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\",
-      "outputPath": "E:\\BulkyBook\\BulkyBook.Models\\obj\\",
+      "outputPath": "C:\\Users\\WesamSoft-PC\\source\\repos\\BulkyBook\\BulkyBook.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

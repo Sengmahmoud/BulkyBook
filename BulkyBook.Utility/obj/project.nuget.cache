@@ -1,8 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "IYsaczhj35QvIbEmzwu2fYQQJm7QcxqcEOR3PE2gPSSXj/zVskN/I4z4F42J3gX7FdrVbm/O4L/P7Pc8atJ8qw==",
+  "dgSpecHash": "e/55EG+MIU4cZlfbTqYEAXSGP02yNBlqf4qiRBBY7TZkLln7nKBNpIT55DQVdfoaY3Ryo3jCbPWMoyMHg4eH8w==",
   "success": true,
-  "projectFilePath": "E:\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\WesamSoft-PC\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.7\\microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.7\\microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\3.1.7\\microsoft.aspnetcore.identity.ui.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.7\\microsoft.extensions.caching.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.7\\microsoft.extensions.configuration.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.7\\microsoft.extensions.configuration.binder.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.7\\microsoft.extensions.fileproviders.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.7\\microsoft.extensions.fileproviders.embedded.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.7\\microsoft.extensions.identity.core.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.7\\microsoft.extensions.identity.stores.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.logging\\3.1.7\\microsoft.extensions.logging.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.options\\3.1.7\\microsoft.extensions.options.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\sendgrid\\9.21.0\\sendgrid.9.21.0.nupkg.sha512",
+    "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\starkbank-ecdsa\\1.2.0\\starkbank-ecdsa.1.2.0.nupkg.sha512"
+  ],
   "logs": []
 }

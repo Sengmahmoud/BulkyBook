@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {}
+    "C:\\Users\\WesamSoft-PC\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {}
   },
   "projects": {
-    "E:\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+    "C:\\Users\\WesamSoft-PC\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\WesamSoft-PC\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
         "projectName": "BulkyBook.Utility",
-        "projectPath": "E:\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+        "projectPath": "C:\\Users\\WesamSoft-PC\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
         "packagesPath": "C:\\Users\\WesamSoft-PC\\.nuget\\packages\\",
-        "outputPath": "E:\\BulkyBook\\BulkyBook.Utility\\obj\\",
+        "outputPath": "C:\\Users\\WesamSoft-PC\\source\\repos\\BulkyBook\\BulkyBook.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.21.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -51,6 +61,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

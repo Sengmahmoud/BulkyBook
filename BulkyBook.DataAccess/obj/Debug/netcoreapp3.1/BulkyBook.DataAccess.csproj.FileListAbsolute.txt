@@ -40,3 +40,17 @@ E:\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.c
 E:\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
 E:\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
 E:\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\WesamSoft-PC\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
